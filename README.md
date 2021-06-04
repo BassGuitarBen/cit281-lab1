@@ -6,3 +6,5 @@ In this lab we learned/did:
 -practice coding and terminal applications
 
 -worked with Node.js
+
+Lab files available at https://bassguitarben.github.io/cit281-lab1/lab-1.js
