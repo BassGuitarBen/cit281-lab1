@@ -7,4 +7,4 @@ In this lab we learned/did:
 
 -worked with Node.js
 
-Lab files available at https://bassguitarben.github.io/cit281-lab1/lab-1.js
+Lab files available at [Lab 1](https://bassguitarben.github.io/cit281-lab1/lab-1.js)
